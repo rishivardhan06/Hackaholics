@@ -1,0 +1,42 @@
+[
+    {
+        "name": "dass",
+        "task": "gui",
+        "time_spent": 1.0
+    },
+    {
+        "name": "kentanic",
+        "task": "django",
+        "time_spent": 2.0
+    },
+    {
+        "name": "mario",
+        "task": "flask",
+        "time_spent": 2.5
+    },
+    {
+        "name": "leon",
+        "task": "wer",
+        "time_spent": 1.0
+    },
+    {
+        "name": "rahul",
+        "task": "angular",
+        "time_spent": 1.0
+    },
+    {
+        "name": "kumar",
+        "task": "c",
+        "time_spent": 1.0
+    },
+        {
+        "name": "rishi",
+        "task": "python",
+        "time_spent": 1.0
+    },
+    {
+        "name": "varthan",
+        "task": "java",
+        "time_spent": 2.0
+    }
+]
